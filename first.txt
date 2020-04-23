@@ -1,2 +1,2 @@
 i want this to commit,second time
-,third time,fourth time,new directory
+,third time,fourth time,new directory,skipping the stage area
